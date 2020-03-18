@@ -1,0 +1,1 @@
+Implemented random forest classification algorithm to predict survival of people on board titanic. Converted categorical features into numerical features. The prediction was dependent on features such as age, gender, fare, etc. Obtained accuracy of 92% with precision of 81% and 74% recall.
